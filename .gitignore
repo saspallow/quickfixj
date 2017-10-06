@@ -67,3 +67,9 @@ fabric.properties
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/intellij
+src/main/java/com/dst/gateway/convertor/
+src/test/java/resources/
+store/**
+target/**
+target/generated-sources/
+target/generated-test-sources/
